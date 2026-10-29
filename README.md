@@ -1,0 +1,1 @@
+This is a repository for my 4-th semester college work. There are no timelines because i decided to merge my repositories into one to make managing them easier but I couldn't bother to try and keep the commit history.
